@@ -1,4 +1,4 @@
-The unity has the following stuff set up:
+The unity project has the following stuff set up:
 - [x] the server and client set up for data streaming
 - [x] particle system to visualize the data
 - [x] different features to make the visualization dynamic: color, rightAscension, declination(temporary)
